@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "Cook and Fry - доставка еды в Москве",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CookAndFry",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CookAndFry",
+  "start_url": "https://cooknfry.ru/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "ico/icons.json"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ru"
+}
